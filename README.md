@@ -11,7 +11,7 @@
 
 | Format | File |
 | ------ | ---- |
-| PDF    | [`slides/Flying_SOLID-ly_pycon_2025.pdf`](slides/Flying_SOLID-ly_pycon_2025.pdf) |
+| PDF    | [`Flying_SOLID-ly_pycon_2025.pdf`](Flying_SOLID-ly_pycon_2025.pdf) |
 
 *(A recording link will appear here once PyCon publishes the videos.)*
 
